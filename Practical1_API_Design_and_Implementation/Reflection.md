@@ -33,7 +33,7 @@ While working on this project, I encountered a few challenges:
 Here are some screenshots of the API in action:
 
 1. **Listing Users with Pagination**:
-   ![List Users](/Practical1_API_Design_and_Implementation/users.png)
+   ![List Users](/Practical1_API_Design_and_Implementation/screenshots/users.png)
 
 2. **Creating a New User**:
-   ![Create User](/Practical1_API_Design_and_Implementation/create.png)
+   ![Create User](/Practical1_API_Design_and_Implementation/screenshots/create.png)
