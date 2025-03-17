@@ -30,8 +30,6 @@ const users = [
    ];
    
    
-   
-   
    // Mock posts data
    const posts = [
     {
